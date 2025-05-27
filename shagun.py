@@ -1,0 +1,1 @@
+print("yiu are a bad person")
